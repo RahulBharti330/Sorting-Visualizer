@@ -1,20 +1,20 @@
 # Sorting-Visualizer
 It's a website which help to understand how different sorting algorithm works visually. A JavaScript web application for visualizing various sorting algorithms. Built for use by developers and educators alike. Implemented algorithms include:
-'''
-Bubble Sort
-Selection Sort
-Insertion Sort
-Merge Sort
-Heap Sort
-Quick Sort
-'''
+
+-  Bubble Sort
+-  Selection Sort
+-  Insertion Sort
+-  Merge Sort
+-  Heap Sort
+-  Quick Sort
+
 
 #  How to use
-'''
-Navigate to the [website](https://rahulbharti330.github.io/Sorting-Visualizer/)
-Click on the algorithm you want to visualize
-Adjust speed and size of the array
-'''
+
+-  Navigate to the [website](https://rahulbharti330.github.io/Sorting-Visualizer/)
+-  Click on the algorithm you want to visualize
+-  Adjust speed and size of the array
+
 
 #  Overview of site
 
