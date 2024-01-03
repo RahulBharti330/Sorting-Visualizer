@@ -10,7 +10,7 @@ Quick Sort
 
 
 #  How to use
-Navigate to the website
+Navigate to the [website](https://rahulbharti330.github.io/Sorting-Visualizer/)
 Click on the algorithm you want to visualize
 Adjust speed and size of the array
 
