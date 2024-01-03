@@ -14,5 +14,6 @@ Navigate to the website
 Click on the algorithm you want to visualize
 Adjust speed and size of the array
 
+#Overview of site
 
 ![Screenshot (15)](https://github.com/RahulBharti330/Sorting-Visualizer/assets/108974464/a098b623-1158-4596-a1a6-9362b21cd0b9)
